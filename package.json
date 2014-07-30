@@ -17,8 +17,10 @@
     "topcoat"
   ],
   "dependencies": {
-    "react": "~0.10.0",
     "topcoat": "^0.7.5"
+  },
+  "peerDependencies": {
+    "react": "^0.11.1"
   },
   "devDependencies": {
     "gulp": "~3.5.0",
